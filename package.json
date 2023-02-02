@@ -1,7 +1,7 @@
 {
-  "name": "demo3",
+  "name": "demo1",
   "version": "0.1.0",
-  "homepage": "/demo-react-cart-app",
+  "homepage": "/demo-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
