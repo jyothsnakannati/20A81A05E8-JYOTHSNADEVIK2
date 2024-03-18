@@ -27,7 +27,7 @@ let products =[
   },
   {
     name:"galaxyj6",
-    path:"https://vlebazaar.in/image/cache/wp/gj/-Samsung-Galaxy-J6-Blue-32-GB-3-GB-RAM/-Samsung-Galaxy-J6-Blue-32-GB-3-GB-RAM-1100x1100h.webp",
+    path:"https://images.meesho.com/images/products/241167461/xyalv_512.webp",
     price:11000,
   },
 ]
